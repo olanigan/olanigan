@@ -1,13 +1,12 @@
-### Hi there 👋
+### Ibrahim Olanigan 👋
 
-I'm a Tech Pragmatist who is cautiously excited about the potential and rapid growth of Generative AI and MLOps (LLMOps)
-🔭 I’m currently working on a couple of open-source projects that involves Retrieval Augmented Generation (RAG), LLM Fine-tuning and inference.
-I'm always on the lookout for the best & latest GenAI tools along with Open-source LLM rankings and research.
+Full-Stack AI Engineer | AI Educator | HuggingFace contributor | Hackathon winner
 
-#### Notable Projects
-- [Youtube Assistant](https://github.com/olanigan/Youtube_Assistant) - Built with Strealit, OpenAI Whisper, Langchain. Hosted on [HuggingFace spaces](https://huggingface.co/spaces/olanigan/YoutubeAssistant)
-- [LP Chatbot](https://github.com/olanigan/lp-chat) - Built with Langchain, Sentence Transformers and OpenAI API. Hosted on Streamlit Cloud
-- [GCP DevOps CI/CD Project](https://github.com/olanigan/gcp-devops) - CI/CD Pipeline to deploy Flask app on Google Kubernetes Engine (GKE) using Google Cloud Build
+Building production LLM apps • AI Education focusing on MCP and AI systems 
+
+#### Bios
+- [Huggingface](https://huggingface.co/olanigan)
+- [Youtube](https://www.youtube.com/@IbrahimOlanigan)
 
 <!--
 **olanigan/olanigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
